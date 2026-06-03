@@ -1,0 +1,8 @@
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.AssemblyInfoInputs.cache
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.AssemblyInfo.cs
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.csproj.CoreCompileInputs.cache
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.RazorAssemblyInfo.cache
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.RazorAssemblyInfo.cs
+/workspaces/razor-docker-codespaces/SimpleRazorApp/obj/Release/net8.0/SimpleRazorApp.sourcelink.json
