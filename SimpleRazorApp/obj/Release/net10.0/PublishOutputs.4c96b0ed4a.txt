@@ -1,0 +1,7 @@
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/SimpleRazorApp
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/appsettings.Development.json
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/appsettings.json
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/SimpleRazorApp.dll
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/SimpleRazorApp.deps.json
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/SimpleRazorApp.runtimeconfig.json
+/workspaces/razor-docker-codespaces/SimpleRazorApp/app/SimpleRazorApp.pdb
